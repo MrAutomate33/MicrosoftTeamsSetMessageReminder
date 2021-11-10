@@ -1,4 +1,4 @@
-# Microsoft Teams - Set reminder
+# Microsoft Teams - Set message reminder
 Received an important Microsoft Teams message, but now is not the time? Set a reminder!
 
 ## General
