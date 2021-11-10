@@ -2,7 +2,7 @@
 Received an important Microsoft Teams message, but now is not the time? Set a reminder!
 
 ## General
-This Power Automate flow will allow you to set a reminder for a specific Microsoft Teams message. The action will be availible within the message options menu (see 'More actions'). After selecting the flow, a message will appear with the question in how many minutes you want to be remined. After the the set time has past the Power Automate bot will remind you of the message in Microsoft Teams.
+This Power Automate flow will allow you to set a reminder for a specific Microsoft Teams message. The action will be available within the message options menu (see 'More actions'). After selecting the flow, a message will appear with the question in how many minutes you want to be remined. After the set time has passed the Power Automate bot will remind you of the message in Microsoft Teams.
 
 ## Connections in use
 * Office 365 Users
