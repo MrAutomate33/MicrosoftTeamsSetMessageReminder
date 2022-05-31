@@ -11,5 +11,5 @@ This Power Automate flow will allow you to set a reminder for a specific Microso
 ## Setup
 1. Please download the [TeamsMessageSetReminder.zip](/../../raw/main/TeamsMessageSetReminder.zip).
 2. Go to https://emea.flow.microsoft.com/manage/flows/import.
-3. Upload and import the TeamsMessageSetReminder.zip file. [Extra help for importing Power Automate projects](/../../../MrAutomate33/blob/main/files/CreateConnectionsInImport.md).
+3. Upload and import the `TeamsMessageSetReminder.zip` file. [Extra help for importing Power Automate projects](/../../../MrAutomate33/blob/main/files/CreateConnectionsInImport.md).
 4. Don't forget to turn on the Power automate flow.
